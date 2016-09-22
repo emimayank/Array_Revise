@@ -1,3 +1,4 @@
+//Author Mayank Shekhar
 import java.util.HashMap;
 
 public class PalindromePermutation {
